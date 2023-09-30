@@ -1,0 +1,10 @@
+body {
+	background-color: #FDD5CD;
+	font-family: TH SarabunPSK;
+	font-size:150%;
+	text-align: center;
+}
+ul{
+	list-style-position: inside;
+	text-align: center;
+}
